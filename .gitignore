@@ -36,3 +36,4 @@ lerna-debug.log*
 
 # OS files
 Thumbs.db
+echo ".env.production" >> .gitignore
